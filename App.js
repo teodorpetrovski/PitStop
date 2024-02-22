@@ -14,7 +14,7 @@ import CustomCamera from "./app/tabs/camera";
 import { FontAwesome } from "@expo/vector-icons";
 
 const Tab = createBottomTabNavigator();
-const Stack = createStackNavigator(); // Create a stack navigator
+const Stack = createStackNavigator(); 
 
 const MainTabNavigator = () => (
   <Tab.Navigator

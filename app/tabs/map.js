@@ -33,9 +33,9 @@ const Map = ({ route, navigation }) => {
   }, []);
 
   const handleMapReady = () => {
-    // After the map is ready, check if the route is successfully found
+
     if (!routeFound) {
-      // If route not found, set routeFound to false
+      
       setRouteFound(false);
     }
   };
@@ -61,7 +61,6 @@ const Map = ({ route, navigation }) => {
             strokeColor="red"
             mode={"DRIVING"}
             onError={(errorMessage) => {
-              // If there's an error calculating the route, set routeFound to false
               setRouteFound(false);
             }}
           />

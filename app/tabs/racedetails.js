@@ -87,8 +87,8 @@ const styles = StyleSheet.create({
     fontSize: 20,
   },
   image: {
-    width: 400, // Adjust width as needed
-    height: 270, // Adjust height as needed
+    width: 400, 
+    height: 270, 
     marginBottom: 10,
     resizeMode: "center",
   },
