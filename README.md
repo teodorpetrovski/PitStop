@@ -1,4 +1,5 @@
 # Pit Stop
+Made by: Teodor Petrovski,201128
 
 ## App Description
 The Pit Stop application is designed for Formula 1 enthusiasts, aiming to deliver the latest and most comprehensive information about the sport. With Formula 1 gaining immense popularity in recent years, Pit Stop serves as a centralized platform for fans to access all necessary information, including race results, standings, circuit details, and more.
